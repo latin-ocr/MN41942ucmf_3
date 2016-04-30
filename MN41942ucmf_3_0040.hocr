@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN41942ucmf_3_0040.png"; bbox 0 0 1047 3191; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 66 642 517 955">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 47 642 517 955">
+     <span class='ocr_line' id='line_1_1' title="bbox 124 642 476 760; baseline 0.051 -18"><span class='ocrx_word' id='word_1_1' title='bbox 124 671 196 744; x_wconf 71' lang='grc' dir='ltr'><strong><em>ΕΤ</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 248 642 373 745; x_wconf 62' lang='lat' dir='ltr'><strong><em>Wms</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 474 755 476 760; x_wconf 20' lang='lat'><strong>⁴</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 124 756 517 835; baseline 0.038 -26.051"><span class='ocrx_word' id='word_1_4' title='bbox 124 776 205 835; x_wconf 53' lang='grc' dir='ltr'><strong><em>χορ</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 273 756 517 828; x_wconf 42' lang='lat' dir='ltr'><strong><em>&#39;Dehomineff</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 66 854 510 955; baseline 0.104 -81"><span class='ocrx_word' id='word_1_6' title='bbox 66 866 89 912; x_wconf 13' lang='lat'><strong><em>4¹</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 108 854 214 955; x_wconf 42' lang='grc' dir='ltr'><strong><em>ΝΛΞ)</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 244 882 272 919; x_wconf 55' lang='lat'><strong><em>52</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 290 857 397 924; x_wconf 51' lang='lat' dir='ltr'><strong><em>mngjlffo</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 410 864 446 917; x_wconf 72' lang='grc' dir='ltr'><strong><em>ὸεὶ</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 459 867 510 918; x_wconf 63' lang='lat' dir='ltr'><strong><em>dev</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 612 538 3158">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 612 538 3158">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 612 538 3158; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 612 538 3158; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
